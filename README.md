@@ -1,5 +1,5 @@
-# Title   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-## Description <a name="description"></a>
+# SQL Inquirer Console Homework   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+## Description <a name="description">https://www.loom.com/share/2f5b4e3d5966446282bc95e94797f930</a>
 
 ## Table of Contents
 
